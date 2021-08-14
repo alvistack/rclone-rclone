@@ -1,0 +1,3 @@
+usr/bin/rclone
+usr/bin/rclonefs
+usr/share/bash-completion/completions/rclone
