@@ -1,0 +1,5 @@
+rclone (100:1.64.2-1) UNRELEASED; urgency=medium
+
+  * https://github.com/rclone/rclone/releases/tag/v1.64.2
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Tue, 09 Jan 2024 12:30:55 +0800
