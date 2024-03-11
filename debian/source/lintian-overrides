@@ -1,0 +1,3 @@
+rclone source: file-without-copyright-information
+rclone source: no-debian-changes
+rclone source: source-is-missing
