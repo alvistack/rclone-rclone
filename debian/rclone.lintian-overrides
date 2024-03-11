@@ -1,0 +1,5 @@
+rclone: copyright-without-copyright-notice
+rclone: initial-upload-closes-no-bugs
+rclone: no-manual-page
+rclone: statically-linked-binary
+rclone: zero-byte-file-in-doc-directory
